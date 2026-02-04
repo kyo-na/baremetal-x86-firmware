@@ -70,4 +70,5 @@ qemu-system-x86_64 -bios build\firmware.bin -nographic ^
 
 ## 関連記事
 VGAで画像を表示する自作OS開発記
+
 https://note.com/kyona_blog/n/na98d77ac7ac5
