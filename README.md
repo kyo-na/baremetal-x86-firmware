@@ -10,6 +10,7 @@
 
 * **ROM 書き換え不可を前提とした RAM 上での GDT 構築**
 * **手動による Protected Mode への遷移**
+
 * **PAE + Identity Mapping による Long Mode 突入**
 * **ファームウェアサービス非依存の VGA フレームバッファ描画**
 * **QEMU (`qemu-system-x86_64`) 上での動作確認**
