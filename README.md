@@ -67,3 +67,7 @@ qemu-system-x86_64 -bios build\firmware.bin -nographic ^
 ---
 
 本プロジェクトは、x86_64 アーキテクチャの低レイヤ動作を深く理解し、ファームウェアレベルでの実装
+
+## 関連記事
+VGAで画像を表示する自作OS開発記
+https://note.com/kyona_blog/n/na98d77ac7ac5
